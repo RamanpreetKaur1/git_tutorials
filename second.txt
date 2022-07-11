@@ -1,2 +1,2 @@
 this is second file for showing example of git commit -a -m "Direct commit"
-Skiping the stagging areaaaaaaaaaaaaaaaaaaaa
+Skiping the stagging areaaaaaaa
